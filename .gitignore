@@ -1,0 +1,8 @@
+.venv*/
+node_modules/
+EnzAIme_ML/fireprotdb_20251015-164116.csv
+__pycache__/
+*.pyc
+*.log
+runs/
+models/
